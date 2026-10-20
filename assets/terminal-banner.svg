@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#14263b"/></linearGradient><linearGradient id="a"><stop offset="0" stop-color="#42e8b4"/><stop offset="1" stop-color="#65a9ff"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#g)"/><rect x="1" y="1" width="1198" height="298" rx="18" fill="none" stroke="#29334d"/>
+<g fill="none" stroke="#42e8b4" opacity=".17"><path d="M0 220 L220 0 M90 300 L390 0 M800 300 L1100 0 M980 300 L1200 80"/><circle cx="1030" cy="140" r="105"/><circle cx="1030" cy="140" r="75"/><circle cx="1030" cy="140" r="45"/></g>
+<circle cx="28" cy="25" r="5" fill="#ff5f57"/><circle cx="46" cy="25" r="5" fill="#febc2e"/><circle cx="64" cy="25" r="5" fill="#28c840"/>
+<text x="88" y="30" fill="#7d8ba8" font-family="monospace" font-size="13">ankush@dev:~</text>
+<text x="76" y="112" fill="#42e8b4" font-family="monospace" font-size="18">$ whoami</text>
+<text x="76" y="164" fill="#f3f6ff" font-family="monospace" font-size="43" font-weight="700">ANKUSH MEHRA</text>
+<text x="78" y="202" fill="#aab7d0" font-family="monospace" font-size="20">Cybersecurity  /  AI  /  Full-stack</text>
+<text x="78" y="246" fill="#42e8b4" font-family="monospace" font-size="15">[ learn ] — [ build ] — [ secure ]</text>
+<rect x="78" y="263" width="10" height="17" fill="#42e8b4"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="1050" y="270" fill="#7d8ba8" font-family="monospace" font-size="12" text-anchor="middle">SYSTEM ONLINE</text>
+</svg>

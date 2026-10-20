@@ -1,0 +1,2 @@
+# Contribution updater uses only Python standard library.
+# Optional local portrait regeneration: pillow numpy opencv-python rembg
